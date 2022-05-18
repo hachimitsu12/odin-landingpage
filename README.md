@@ -1,2 +1,2 @@
 # odin-landingpage
-Landign page project for Odin
+Landing Page project for Odin
